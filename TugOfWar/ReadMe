@@ -1,0 +1,4 @@
+#Tug of War Game
+This game has 2 players start on opposite ends of a doubly linked list.
+The first player to reach the center of the list by answering prompt questions wins.
+Game is written in C.
